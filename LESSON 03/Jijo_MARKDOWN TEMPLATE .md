@@ -6,11 +6,11 @@ Third-Level Heading
 
 ## Make the word "bold" bold in the following sentence. 
 
-This word is in bold.
+This word is in **bold**.
 
 ## Make the word "italics" italics in the following sentence. 
 
-This word is in italics. 
+This word is in -italics-. 
 
 ## Add a link to https://letmegooglethat.com that opens when the user clicks on the word "here" in the next sentence. 
 
@@ -22,15 +22,15 @@ If you do not know the answer to the question, please click here.
 
 ## Turn the following into an ordered (numbered) list. 
 
-Item 1
-Item 2
-Item 3
+1.Item 1
+2.Item 2
+3.Item 3
 
 ## Turn the following into an unordered list.
 
-Item 1
-Item 2
-Item 3
+-Item 1
+-Item 2
+-Item 3
 
 ## Format the following sentence as an indented quotation.
 
