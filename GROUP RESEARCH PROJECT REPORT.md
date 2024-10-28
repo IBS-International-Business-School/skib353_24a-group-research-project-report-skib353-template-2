@@ -2,7 +2,7 @@
 
 ## Team Members:
 1. Khilji Syed Izhan
-2. {EXILED TO SIBERIA}
+2. Kaszas Tunde Lilla
 3. Nguyen Quang Anh
 4. Malchiodi Marco
 
