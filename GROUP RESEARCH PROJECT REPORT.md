@@ -15,8 +15,18 @@
 ## Methodology
 ... 
 
+
 ## Results
 
+### Investment in High-Risk Assets  
+
+ 
+
+One of the aspects we researched was the relationship between age and risky investments. Our results strongly supported the hypothesis that younger generations are more comfortable with high-risk investments and are more likely to populate their portfolios with assets such as cryptocurrencies, NFTs, and other speculative instruments. In Figure 1, we illustrate the average comfort level of each age group with investing in high-risk assets, measured on a scale of 1-5. Responses showed that the youngest age groups (18-22 and 23-28) exhibited the highest comfort levels, with an average rating of 4.5. We attribute this to a combination of lower financial literacy and higher internet literacy. The accessibility of online resources and the influence of social media likely reduce the perceived intimidation associated with the volatility of such assets. As expected, the comfort level progressively decreases with age. 
+
+ 
+
+Figure 2 presents the average percentage of high-risk assets within each age group’s portfolio. The largest proportion (approximately 51%) is associated with the youngest age group (18-22), followed closely by the 23-28 group at 49%. This proportion decreases to 30%, 21%, and finally 5% for the oldest age group (45+). This distribution demonstrates a stark contrast: the youngest groups tend to "put their eggs in one basket," while older groups deliberately avoid high-risk assets. Several factors may explain this pattern. Younger adults, with comparatively less disposable income, are drawn to higher returns despite the associated risks. Meanwhile, older generations, benefiting from stable incomes and accumulated assets, prioritize diversified portfolios with moderate risks to achieve long-term financial stability. 
 ### Portfolio Diversification
 Our findings strongly support the hypothesis that as investors age, they diversify their portfolios across a broader range of asset classes. 
 
