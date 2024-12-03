@@ -86,7 +86,7 @@ We can conclude by saying
 - Financial literacy shows no significant correlation with portfolio allocation, suggesting that experience and education in finance might not directly influence risk-taking behaviors.
 - There is no evidence of a significant difference in risk-taking based on financial literacy levels (ANOVA p-value > 0.05 ).
 
-![Financial Literacy vs High Risk Asset](Financial_Literacy_vs_High_Risk_Asset.png)
+![Financial Literacy vs High Risk Asset](images/Financial_Literacy_vs_High_Risk_Asset.png)
 
 The scatter plot illustrates the relationship between financial literacy levels (Low, Average, High) and the percentage of portfolios allocated to high-risk assets (e.g., cryptocurrencies) across different age groups. Younger investors (18–28) consistently allocate higher percentages to high-risk assets, regardless of financial literacy. Conversely, older age groups (37 and above) show lower allocations, even with high financial literacy.
 
