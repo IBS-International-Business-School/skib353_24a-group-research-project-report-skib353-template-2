@@ -1,4 +1,4 @@
-# Group Research Project Report: Age, Risk, and Asset Allocation in Investment Behavior
+# Group Research Project Report
 
 ## Team Members:
 1. Khilji Syed Izhan
