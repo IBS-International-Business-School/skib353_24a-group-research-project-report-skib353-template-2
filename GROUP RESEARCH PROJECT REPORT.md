@@ -110,6 +110,10 @@ As depicted in Figure 2 (Average Crypto Allocation), the allocation to high-risk
 ![Average Crypto Allocation by Age Group](images/crypto_allocation.png)
  
 ## Discussion
+
+Given the following null hypothesis: 
+H₀: There is no significant relationship between age and risk tolerance, nor between age and the likelihood of allocating funds to high-risk assets such as cryptocurrencies. 
+
 One of the aims of this research was to compare our findings with pre-existing literature. However, it soon became apparent that past studies on the subject, particularly on the behavioral aspects of investors, labeled as ‘investor’ those entities that were either financial institutions or high-net-worth individuals, - the traditional market makers and movers. Our survey, on the other hand, targeted exclusively the so-called ‘retail investors’, individuals who may lack market influence on their own, but are a significant player as an aggregate. 
 
 Some biases included the number respondents predominantly falling between the range of ages 28-36, very few being younger than 22. Additionally, there may have also been some cultural misunderstandings regarding the questions related to income in HUF. Other background data, mainly related to marital status, education, etc., was evenly distributed amongst the respondents. This made data analysis fairer. 
@@ -130,10 +134,10 @@ Aligning financial services with the distinct needs of these generational segmen
 
 ## Reflection
 
-Our team effectively implemented Agile principles through structured weekly meetings and ongoing communication in a dedicated group chat. The meetings provided a platform to review progress, discuss challenges, and plan next steps, ensuring that everyone remained aligned and engaged. The group chat served as a space for quick clarifications, sharing insights, and resolving questions, which kept the workflow efficient.
+Our team effectively implemented Agile principles through structured weekly Sunday meetings and ongoing communication in a dedicated group chat. The meetings provided a platform to review progress, discuss challenges, and ensure that everyone remained aligned and engaged. The group chat served as a space for quick clarifications, sharing insights, and resolving questions, which kept the workflow efficient. 
 
-Workload distribution was equitable, with all members contributing equally to the project. This balance ensured accountability and made sure that everyone was actively involved in the process. Open discussions during meetings encouraged critical thinking and allowed different perspectives to shape our decisions, ultimately improving the quality of our work.
+Workload distribution was equitable, with all members contributing equally to the project. Open discussions during meetings encouraged critical thinking and allowed different perspectives to shape our decisions, ultimately improving the quality of our work. 
 
-Despite these strengths, we encountered challenges such as occasional scheduling conflicts and the difficulty of balancing project tasks with other commitments. However, the team’s adaptability and proactive communication helped us navigate these obstacles effectively. For example, when a team member faced time constraints, others stepped in to provide support, ensuring that deadlines we set were met without compromising quality.
+Despite these strengths, we encountered challenges, such as occasional scheduling conflicts. However, the team’s adaptability and proactive communication helped us navigate these obstacles effectively. For example, when a team member faced time constraints, others stepped in to provide support, ensuring that deadlines we set were met without compromising quality. 
 
 By embracing Agile principles, we created a collaborative, flexible environment that not only overcame challenges but also enhanced the overall quality and efficiency of our work.
