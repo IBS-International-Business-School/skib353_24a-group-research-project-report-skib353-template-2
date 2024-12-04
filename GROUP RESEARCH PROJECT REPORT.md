@@ -92,7 +92,7 @@ This suggests that age plays a stronger role in shaping risk tolerance than fina
 
 
 ### Portfolio Diversification
-Our findings strongly support the hypothesis that as investors age, they diversify their portfolios across a broader range of asset classes. 
+Our findings strongly support that investors diversify their portfolios across a broader range of asset classes as they age. 
 
 Figure 1 (Portfolio Diversification by Age Group) highlights a clear trend: younger investors average only 1.2 asset classes in their portfolios, emphasizing concentrated investments, often in high-risk, high-reward assets. In contrast, older investors, particularly those aged 45 and above, average 2.8 asset classes, showcasing a deliberate approach to risk mitigation and stability through diversification.
 
