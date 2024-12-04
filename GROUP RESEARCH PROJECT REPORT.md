@@ -1,12 +1,10 @@
-# Group Research Project Report
+# Group Research Project Report: Age, Risk, and Asset Allocation in Investment Behavior
 
 ## Team Members:
 1. Khilji Syed Izhan
 2. Kaszas Tunde Lilla
 3. Nguyen Quang Anh 
 4. Malchiodi Marco
-
-# Age, Risk, and Asset Allocation in Investment Behavior
 
 ## Introduction
 
