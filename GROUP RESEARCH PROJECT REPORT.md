@@ -8,7 +8,12 @@
 
 
 ## Introduction
-...
+
+Understanding investor behavior is crucial for financial advisors, businesses, and policymakers aiming to tailor strategies that align with individual risk profiles. This study examines the influence of age on risk tolerance and investment preferences, with a particular focus on younger investors' inclination toward high-risk assets like cryptocurrencies. The primary research hypothesis posits that younger investors exhibit higher risk tolerance and are more likely to allocate a significant portion of their portfolios to high-risk assets. Additionally, the study explores the counterhypothesis that age does not significantly affect risk tolerance or asset allocation. 
+
+The significance of this research lies in its potential to inform investment advisory practices and product development. Businesses in the financial services sector can better segment and target clients by understanding demographic variations in risk preferences. As cryptocurrencies and other high-risk assets gain prominence, insights into investor behavior can drive innovation in portfolio management tools and educational resources, enabling better alignment with client objectives and market trends. 
+
+Moreover, the research addresses critical business challenges, including enhancing client satisfaction, reducing churn in investment advisory services, and optimizing product offerings. By analyzing variables such as financial literacy, diversification strategies, and investment objectives, the study provides actionable insights into the evolving landscape of investor behavior across age groups. 
 
 ## Methodology
 
@@ -52,8 +57,11 @@ Figure 2 presents the average percentage of high-risk assets within each age gro
 Investment decisions are often shaped by personal goals, such as wealth accumulation, retirement planning, or short-term profit. Market trends and access to information also play a significant role in shaping investor behavior. Additionally, psychological factors like risk perception and confidence levels can greatly impact the willingness to invest in high-risk assets. Understanding these factors is crucial for both investors and financial advisors in optimizing portfolio strategies.
 
 Using statistical methods such as correlation analysis, variance calculations, and ANOVA testing, we explored how financial literacy, age, and high-risk portfolio allocation influence investor behavior .
+
 https://colab.research.google.com/drive/15RLkRrXXuIrU0DRFb5jENsAj49HY0xnO?usp=sharing
-Results and Interpretation
+
+#### Results and Interpretation
+
 1.	Correlation Analysis:
 -	Correlation between Financial Literacy and High-Risk Portfolio Allocation:
 i.	Pearson r=0.018: Very weak positive correlation, indicating almost no relationship between financial literacy and portfolio allocation to high-risk assets.
@@ -61,11 +69,13 @@ i.	Pearson r=0.018: Very weak positive correlation, indicating almost no relatio
 i.	Pearson r=−0.955: Strong negative correlation, suggesting that younger investors allocate a significantly higher proportion to high-risk assets compared to older groups.
 -	Correlation between Age Group and Financial Literacy:
 i.	Pearson r=0.003: No meaningful relationship between age and financial literacy.
+
 2.	Variance in High-Risk Portfolio Allocation by Financial Literacy:
 -	Low: 437.15%
 -	Average: 398.02%
 -	High: 364.37%
 -	Observations: Higher variance in the "Low" literacy group implies more inconsistent portfolio behavior.
+
 3.	ANOVA Results:
 -	p-value = 0.926: No statistically significant difference in high-risk portfolio allocation means across financial literacy groups
 
@@ -73,6 +83,8 @@ We can conclude by saying
 - Age has a strong negative correlation with portfolio allocation to high-risk assets, supporting the hypothesis that younger investors show a higher risk tolerance.
 - Financial literacy shows no significant correlation with portfolio allocation, suggesting that experience and education in finance might not directly influence risk-taking behaviors.
 - There is no evidence of a significant difference in risk-taking based on financial literacy levels (ANOVA p-value > 0.05 ).
+
+![Financial Literacy vs High Risk Asset](images/Financial_Literacy_vs_High_Risk_Asset.png)
 
 The scatter plot illustrates the relationship between financial literacy levels (Low, Average, High) and the percentage of portfolios allocated to high-risk assets (e.g., cryptocurrencies) across different age groups. Younger investors (18–28) consistently allocate higher percentages to high-risk assets, regardless of financial literacy. Conversely, older age groups (37 and above) show lower allocations, even with high financial literacy.
 
