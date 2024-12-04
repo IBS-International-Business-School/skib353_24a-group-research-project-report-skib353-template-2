@@ -1,6 +1,5 @@
 # Group Research Project Report
 ## Age, Risk, and Asset Allocation in Investment Behavior
-### Analyzing Investment Behavior Across Generations
 
 ## Team Members:
 1. Khilji Syed Izhan
