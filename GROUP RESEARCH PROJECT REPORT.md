@@ -6,8 +6,6 @@
 3. Nguyen Quang Anh 
 4. Malchiodi Marco
 
-## Declaration
-...
 
 ## Introduction
 ...
@@ -127,6 +125,3 @@ Workload distribution was equitable, with all members contributing equally to th
 Despite these strengths, we encountered challenges such as occasional scheduling conflicts and the difficulty of balancing project tasks with other commitments. However, the team’s adaptability and proactive communication helped us navigate these obstacles effectively. For example, when a team member faced time constraints, others stepped in to provide support, ensuring that deadlines we set were met without compromising quality.
 
 By embracing Agile principles, we created a collaborative, flexible environment that not only overcame challenges but also enhanced the overall quality and efficiency of our work.
-
-## References
-... 
